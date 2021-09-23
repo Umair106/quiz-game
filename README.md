@@ -1,5 +1,5 @@
 # Quiz-Game
-# Open the Pycharm and run the main file
+## Open the Pycharm and run the main file
 ## Output
 
 
