@@ -1,4 +1,7 @@
 # quiz-game
 Open the Pycharm and run the main file
-Output is given below
-![Output](https://user-images.githubusercontent.com/36688723/134507946-2438d431-4d2b-4475-8a76-824eab4009c4.png)
+Output is given below:
+
+
+![output](https://user-images.githubusercontent.com/36688723/134512431-97c1f755-6372-47a2-9028-ae8fa03c3ac0.gif)
+
